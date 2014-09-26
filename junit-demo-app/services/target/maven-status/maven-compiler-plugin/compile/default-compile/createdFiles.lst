@@ -1,0 +1,5 @@
+ro\teamnet\junit\demo\service\SecurityService.class
+ro\teamnet\junit\demo\exception\ServiceException.class
+ro\teamnet\junit\demo\service\AppUserService.class
+ro\teamnet\junit\demo\framework\ISecurityService.class
+ro\teamnet\junit\demo\framework\IAppUserService.class

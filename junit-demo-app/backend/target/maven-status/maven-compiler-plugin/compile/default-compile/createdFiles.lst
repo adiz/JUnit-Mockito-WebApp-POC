@@ -1,0 +1,6 @@
+ro\teamnet\junit\demo\dao\AppUserRepository.class
+ro\teamnet\junit\demo\model\UserInfo.class
+ro\teamnet\junit\demo\utils\UserStatus.class
+ro\teamnet\junit\demo\model\AppUser.class
+ro\teamnet\junit\demo\model\BaseEntity.class
+ro\teamnet\junit\demo\utils\AppUserType.class
