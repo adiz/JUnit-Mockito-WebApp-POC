@@ -1,0 +1,5 @@
+The application is configured for running unit tests on a basic functionality that covers the 3 main layers in a web application: dao, service and frontend.
+
+To run the entire test suite, create a maven configuration with the goal: "clean compile test" and run.
+
+ 
